@@ -1,0 +1,47 @@
+ body {
+   background-color: darkkhaki;
+ }
+
+ #header {
+   margin: 100px;
+   background-color: #CC6666;
+   color: white;
+   text-align: center;
+   padding: 6px;
+   border: 10px solid green;
+ }
+
+ img {
+   height: 500px;
+   width: 500px;
+
+ }
+
+
+ h1 {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 25px;
+ }
+
+ #faith {
+   color: #CC6666;
+ }
+
+ #iphone {
+   text-align: center;
+ }
+
+ #deck {
+   height: 600px;
+   width: 600px;
+ }
+
+ #juli{
+  height: 600px;
+  width: 600px;
+ }
+
+ #okoro{
+  display: flex;
+  justify-content: space-around;
+ }
